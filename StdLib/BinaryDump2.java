@@ -20,7 +20,7 @@
  *
  *************************************************************************/
 
-public class BinaryDump {
+public class BinaryDump2 {
 
     public static void main(String[] args) {
         int BITS_PER_LINE = 16;

@@ -21,7 +21,7 @@
  *
  *************************************************************************/
 
-public class HexDump {
+public class HexDump2 {
 
     public static void main(String[] args) {
         int BYTES_PER_LINE = 16;
