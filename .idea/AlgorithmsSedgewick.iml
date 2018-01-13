@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-Fundamentals/1-1-BasicProgModel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Fundamentals/1-2-DataAbstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Fundamentals/1-3-BagsQueuesStacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Fundamentals/1-4-AnalysisOfAlgorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Fundamentals/1-5-UnionFind" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-Sorting/2-1-ElementarySorts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-Sorting/2-2-Mergesort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-Sorting/2-3-Quicksort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-Sorting/2-4-PriorityQueues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Searching/3-1-SymbolTables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Searching/3-2-BinarySearchTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Searching/3-3-BalancedSearchTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Searching/3-4-HashTables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Searching/3-5-Applications" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-Graphs/4-1-UndirectedGraphs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-Graphs/4-2-DirectedGraphs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-Graphs/4-3-MinSpanningTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-Graphs/4-4-ShortestPaths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Strings/5-1-StringSorts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Strings/5-2-Tries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Strings/5-3-SubstringSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Strings/5-4-RegularExpressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Strings/5-5-DataCompression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Context/6-1-EventDrivenSim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Context/6-2-BTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Context/6-3-SuffixArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Context/6-4-Maxflow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Context/6-5-Reductions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beyond" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StdLib" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="algs4" level="project" />
+    <orderEntry type="library" name="stdlib" level="project" />
+  </component>
+</module>
